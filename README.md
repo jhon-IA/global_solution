@@ -14,9 +14,8 @@
 
 | Nome | RM | Turma |
 |------|-----|-------|
-| [Nome do Integrante 1] | RM XXXXX | TIAO |
-| [Nome do Integrante 2] | RM XXXXX | TIAO |
-| [Nome do Integrante 3] | RM XXXXX | TIAO |
+| [Jhonatan Soares ] | RM 554190
+| [Eduardo Carvalho] | RM 559438 
 
 > ⚠️ **Atenção:** substitua os campos acima com os nomes e RMs reais do grupo.
 
